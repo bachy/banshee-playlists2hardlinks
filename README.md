@@ -21,14 +21,14 @@ you can run ```./banshee-plalists2hardlink.py -h``` to read all aptional argumen
   -a, --absolute        Use absolute paths (relative by default)    
   -u, --user-playlists  Extract user playlists (default)     
   -s, --smart-playlists  Extract smart playlists     
-  -r, --remove-old  Remove existing *.m3u files in --output-dir
-  -p PLAYLISTS, --playlists PLAYLISTS Specify which playlists to export by name. Delimit using "|"
-  -o OUTPUT_DIR, --output-dir OUTPUT_DIR Specify where to put the playlist files
-  -d DATABASE, --database DATABASE Specify where the database is
+  -r, --remove-old  Remove existing *.m3u files in --output-dir   
+  -p PLAYLISTS, --playlists PLAYLISTS Specify which playlists to export by name. Delimit using "|"    
+  -o OUTPUT_DIR, --output-dir OUTPUT_DIR Specify where to put the playlist files   
+  -d DATABASE, --database DATABASE Specify where the database is   
 
 
 ## thanks
-thanks to (jarretgilliam)[https://github.com/jarrettgilliam] for his (banshee-playlists)[https://github.com/jarrettgilliam/banshee-playlists] script.
+thanks to [jarretgilliam](https://github.com/jarrettgilliam) for his [banshee-playlists](https://github.com/jarrettgilliam/banshee-playlists) script.
 
 
 
