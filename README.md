@@ -4,7 +4,7 @@ This python script is my attempt to get exported my banshee playlist into a fold
 Files are not duplicated but hard linked instead.
 
 ## install it
-just colne thiss repo
+just clone this repo
 ```git clone https://github.com/bachy/banshee-playlists2hardlinks.git```
 
 ## run it
