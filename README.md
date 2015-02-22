@@ -8,8 +8,7 @@ just colne thiss repo
 ```git clone ```
 
 ## run it
-you can run it ponctualy with the command
-```./banshee-plalists2hardlink.py```
+you can run it ponctualy with the command ```./banshee-plalists2hardlink.py```
 
 or you can setup a cron job to run it automaticly
 
