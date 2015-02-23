@@ -17,14 +17,22 @@ or you can setup a cron job to run it automaticly
 you can run ```./banshee-plalists2hardlink.py -h``` to read all aptional arguments   
 
   -h, --help show this help message and exit    
+
   -l, --list-playlists  List playlists and exit   
-  -a, --absolute        Use absolute paths (relative by default)    
+
   -u, --user-playlists  Extract user playlists (default)     
+
   -s, --smart-playlists  Extract smart playlists     
+
   -r, --remove-old  Remove existing *.m3u files in --output-dir   
+
   -p PLAYLISTS, --playlists PLAYLISTS Specify which playlists to export by name. Delimit using "|"    
+
   -o OUTPUT_DIR, --output-dir OUTPUT_DIR Specify where to put the playlist files   
+default :  `~/.config/banshee-1/export-playlist`
+
   -d DATABASE, --database DATABASE Specify where the database is   
+default :  `~/.config/banshee-1/banshee.db`
 
 
 ## thanks
